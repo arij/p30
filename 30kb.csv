@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"SW6.2,SW8.1,SW2.1,SW1.1,SW3.1,SW4.1,SW5.1,SW6.1,SW7.1,SW9.1,SW10.1,SW11.1,SW12.1,SW1.2,SW2.2,SW3.2,SW4.2,SW5.2,SW7.2,SW8.2,SW9.2,SW10.2,SW11.2,SW12.2,SW1.3,SW2.3,SW3.3,SW4.3,SW5.3,SW8.3,SW9.3,SW10.3,SW11.3,SW12.3";"CHERRY_PCB_100H";34;"SW_PUSH";;;
+2;"REF**,REF**";"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";2;"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";;;
+3;"S1";"PUSH_BUTTON_PTS645SM43SMTR92LFS";1;"PUSH_BUTTON";;;
+4;"G***";"LOGO";1;"LOGO";;;
+5;"SW6.3";"CHERRY_PCB_200H";1;"SW_PUSH";;;
+6;"Y1";"crystal_ABLS7M";1;"16MHz";;;
+7;"CON1";"AVR-ISP-6";1;"AVR-ISP-6";;;
+8;"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35";"SOD-123";35;"D";;;
+9;"IC1";"QFP32";1;"ATMEGA32U2";;;
+10;"C1";"C_0805";1;"2.2uF";;;
+11;"C2,C3";"C_0603";2;"0.1uF";;;
+12;"C4";"C_0805";1;"1uF";;;
+13;"C5,C6";"C_0603";2;"22pF";;;
+14;"R1,R2";"R_0805";2;"22R";;;
+15;"R3";"R_0805";1;"10K";;;
+16;"J1";"72f6-usb_mini_b_hiroseux60sc-mb-5s8";1;"USB_MINI_B";;;
+17;"REF**";"1pin";1;"1pin";;;

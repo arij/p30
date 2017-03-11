@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LIBRARY_CORECODE)(type KiCad)(uri C:\Users\james\Desktop\LIBRARY_CORECODE)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)\\footprints")(options "")(descr ""))
+)
