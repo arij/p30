@@ -1,4 +1,4 @@
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/arij/p30">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/arij/p30"> <img alt="GitHub" src="https://img.shields.io/github/license/arij/p30">
 
 # Pendulum 30
 
